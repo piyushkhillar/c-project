@@ -5,7 +5,7 @@ If they qualify, the program shows different loan tenure options along with the 
 
 The logic is based on common banking practices (inspired by RBI guidelines), but simplified so it’s easy to understand for learning purposes.
 
-✨ Features
+# Features
 
 Takes CIBIL score as input
 
@@ -27,7 +27,7 @@ Total interest
 
 Total amount to be paid
 
-📌 How Interest Rate is Decided
+#How Interest Rate is Decided
 Based on CIBIL Score
 
 650–699 → +2% extra interest
@@ -46,7 +46,7 @@ Based on Loan Tenure
 
 Final interest = base rate + CIBIL risk add-on.
 
-🧮 EMI Formula Used
+** EMI Formula Used
 𝐸
 𝑀
 𝐼
@@ -86,7 +86,7 @@ r = monthly interest rate
 
 n = number of months
 
-▶️ How to Run
+# How to Run
 
 Compile and run using GCC:
 
