@@ -1,0 +1,2 @@
+# c-project
+ A SIMPLE C PROJECT FOR SUBMISSION
